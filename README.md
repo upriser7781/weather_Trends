@@ -1,4 +1,4 @@
-my-first-project
+my-first-project 
 # UDACITY
 ## DATA ANALYST NANODEGREE
 ### PROJECT- 1: Exploring weather Trends
@@ -45,6 +45,9 @@ Now the city’s temperature with the global temperature is compared. The moving
 
 #### 4.	Conclusion: 
 The report suggest that in a span of 10 years, the global temperature as well as the local temperature is facing a slight change in both ways due to the change in climate.
+
+
+(The data of 2004 to 2013 is used i.e. analysis of span of 10 years)
 
 - NAME: Ishita Singh
 - DATE: 07/05/06
