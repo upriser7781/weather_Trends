@@ -1,7 +1,4 @@
-my-first-project 
-# UDACITY
-## DATA ANALYST NANODEGREE
-### PROJECT- 1: Exploring weather Trends
+Exploring weather Trends
 
 ### Aim: 
 To analyze local and global temperature data and compare the temperature trends of local to overall global temperature trends. 
