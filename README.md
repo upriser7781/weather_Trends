@@ -45,7 +45,3 @@ The report suggest that in a span of 10 years, the global temperature as well as
 
 
 (The data of 2004 to 2013 is used i.e. analysis of span of 10 years)
-
-- NAME: Ishita Singh
-- DATE: 07/05/06
-- COUNTRY: India
